@@ -55,9 +55,9 @@ function calculateAge() {
     age.years +
     " years, " +
     age.months +
-    " months, and " +
+    " month(s), and " +
     age.days +
-    " days.";
+    " day(s).";
   }
 }
 
