@@ -42,5 +42,3 @@ The HTML structure for the Age Calculator, including the input form and the disp
 
 ### index.js
 The JavaScript file containing the logic for calculating the age based on the input date.
-
-You can adjust the repository URL and any specific instructions or sections as needed.
